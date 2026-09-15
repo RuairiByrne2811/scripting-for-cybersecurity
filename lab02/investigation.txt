@@ -1,0 +1,7 @@
+codespace
+codespaces-fe857e
+/workspaces/scripting-for-cybersecurity/lab02
+/home/codespace/.python/current/bin/python3
+/usr/bin/bash
+92
+7

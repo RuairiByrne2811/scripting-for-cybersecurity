@@ -1,0 +1,6 @@
+Cybersecurity CLI Report
+Name: Ruairi
+Host: codespaces-fe857e
+Directory: /workspaces/scripting-for-cybersecurity/lab02/challenge
+Python: /home/codespace/.python/current/bin/python
+Python filenames found: 6
