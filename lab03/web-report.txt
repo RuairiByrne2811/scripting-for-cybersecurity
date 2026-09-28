@@ -1,0 +1,14 @@
+Web Access Analysis
+
+Total Requests: 220 4
+403 Responses: 34
+404 Responses: 37
+Requests to /.admin: 0
+Requests to /.env: 9
+sqlmap Requests: 60
+
+Top Source Ips:      51 203.0.113.10
+     37 198.51.100.24
+     15 198.51.100.77
+     11 203.0.113.15
+     10 203.0.113.200
