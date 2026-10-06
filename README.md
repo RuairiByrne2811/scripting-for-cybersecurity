@@ -9,3 +9,5 @@ This repository contains my practical work for the Scripting for Cybersecurity m
 - Lab 02 - Linux Command Line
 
 - Lab 03 - Text Processing and Log Analysis
+
+- Lab 4: Finding Files and Working with Data
